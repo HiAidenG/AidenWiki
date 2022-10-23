@@ -1,10 +1,12 @@
+Gene: *polA*
+
 # Function
-5' to 3' exonucleolytic activity, functions to remove RNA primers after replication is complete. 
+5' to 3' exonucleolytic activity, functions to remove RNA primers placed by [[Primase]] after replication is complete. 
 
 # Nuances
 There are two competing models of how the RNA primers are removed:
-1. Pol I removes the primers, [[DNA Ligase]] seals the nick in the sugar backbone.
-2. [[RNaseH]] degrades the majority of the RNA hybridized to the DNA, Pol I removes the last few nucleotides, [[DNA Ligase]] seals the nick.
+1. Pol I removes the primers, [[DNA-Ligase]] seals the nick in the sugar backbone.
+2. [[RNaseH]] degrades the majority of the RNA hybridized to the DNA, Pol I removes the last few nucleotides, [[DNA-Ligase]] seals the nick.
 
 Testing *In vivo* which theory is correct:
 - Clone plasmids that are double stranded except for one region where it is hybridized to RNA instead of DNA into an *E. coli* cell

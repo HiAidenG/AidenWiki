@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6d48ca3a443793d",
+            "id": "00b9c6cb791f6011",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNA Replication/Prokaryotic Proteins/DNA Pol III.md",
+                "file": "DNA Replication/Prokaryotic Origin of Replication (oriC).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DNA Replication/Prokaryotic Proteins/DNA Pol III.md",
+                "file": "DNA Replication/Prokaryotic Origin of Replication (oriC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DNA Replication/Prokaryotic Proteins/DNA Pol III.md",
+                "file": "DNA Replication/Prokaryotic Origin of Replication (oriC).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DNA Replication/Prokaryotic Proteins/DNA Pol III.md"
+                "file": "DNA Replication/Prokaryotic Origin of Replication (oriC).md"
               }
             }
           }
@@ -139,17 +139,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d6d48ca3a443793d",
+  "active": "00b9c6cb791f6011",
   "lastOpenFiles": [
-    "DNA Replication/Prokaryotic Proteins/DNA Pol I.md",
-    "DNA Replication/Prokaryotic Proteins/DNA Ligase.md",
-    "DNA Replication/Prokaryotic Proteins/DNA Pol III.md",
-    "DNA Replication/Prokaryotic Proteins/DnaA.md",
-    "README.md",
-    "DNA Replication/Prokaryotic Proteins/Single Stranded Binding Protein.md",
-    "DNA Replication/Prokaryotic Proteins/Gyrase.md",
+    "Images/oriC.png",
+    "'../images/oriC.png'.md",
     "DNA Replication/Prokaryotic Origin of Replication (oriC).md",
-    "DNA Replication/Prokaryotic Proteins/Untitled.md",
-    "DNA Replication Proteins.md"
+    "DNA Replication/Okazaki-Fragment.md",
+    "DNA Replication/DNA-Replication-Home.md",
+    "DNA Replication/Prokaryotic-Proteins/DNA-Ligase.md",
+    "Prokaryotic-Proteins/DNA-Ligase.md",
+    "DNA Replication/Prokaryotic-Proteins/Gyrase.md",
+    "DNA Replication/Prokaryotic-Proteins/DnaC.md",
+    "Prokaryotic-Proteins/Gyrase.md"
   ]
 }
