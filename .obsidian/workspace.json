@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNA Replication/Prokaryotic Origin of Replication (oriC).md",
+                "file": "Landing-Page.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DNA Replication/Prokaryotic Origin of Replication (oriC).md",
+                "file": "Landing-Page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DNA Replication/Prokaryotic Origin of Replication (oriC).md",
+                "file": "Landing-Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DNA Replication/Prokaryotic Origin of Replication (oriC).md"
+                "file": "Landing-Page.md"
               }
             }
           }
@@ -141,15 +141,15 @@
   },
   "active": "00b9c6cb791f6011",
   "lastOpenFiles": [
+    "DNA-Replication/DNA-Replication-Home.md",
+    "Landing-Page.md",
+    "DNA-Replication/Prokaryotic Origin of Replication (oriC).md",
+    "DNA.md",
     "Images/oriC.png",
     "'../images/oriC.png'.md",
-    "DNA Replication/Prokaryotic Origin of Replication (oriC).md",
-    "DNA Replication/Okazaki-Fragment.md",
-    "DNA Replication/DNA-Replication-Home.md",
-    "DNA Replication/Prokaryotic-Proteins/DNA-Ligase.md",
+    "DNA-Replication/Okazaki-Fragment.md",
+    "DNA-Replication/Prokaryotic-Proteins/DNA-Ligase.md",
     "Prokaryotic-Proteins/DNA-Ligase.md",
-    "DNA Replication/Prokaryotic-Proteins/Gyrase.md",
-    "DNA Replication/Prokaryotic-Proteins/DnaC.md",
-    "Prokaryotic-Proteins/Gyrase.md"
+    "DNA-Replication/Prokaryotic-Proteins/Gyrase.md"
   ]
 }
