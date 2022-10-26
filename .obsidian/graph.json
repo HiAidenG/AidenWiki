@@ -8,17 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"DNA Replication/Prokaryotic-Proteins\"",
-      "color": {
-        "a": 1,
-        "rgb": 15089985
-      }
-    },
-    {
-      "query": "path:\"DNA Replication\"",
+      "query": "path:DNA-Replication/Prokaryotic-Proteins",
       "color": {
         "a": 1,
         "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:DNA-Replication",
+      "color": {
+        "a": 1,
+        "rgb": 14701173
       }
     }
   ],
@@ -32,6 +32,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.5087618855792666,
-  "close": true
+  "scale": 0.536440958743484,
+  "close": false
 }
