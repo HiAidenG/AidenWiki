@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 16048927
       }
+    },
+    {
+      "query": "path:DNA-Replication",
+      "color": {
+        "a": 1,
+        "rgb": 14701173
+      }
     }
   ],
   "collapse-display": false,
