@@ -2,7 +2,7 @@ Composed of two distinct subregions:
 1. AT-rich DNA containing 13-mers of a conserved sequence: GATCTNTTNTTTT aka the 'DNA unwinding element'. AT rich DNA can be more easily separated by [DnaA](DnaA.md). This is also known as the DUE (DNA unwinding element)
 2. DNA boxes of varying affinities. Three high affinity boxes and 8/9 low affinity boxes. DnaA binds to the high affinity boxes first, then the low affinity, until they occupy most of the oriC. [DnaB](Helicase.md) can now bind with the help of [DnaC](DnaC.md) 
 
-![OriC Diagaram](../images/oriC.png)
+![OriC Diagaram](oriC.png)
 
 
 # Experimental Detection of OriC
@@ -24,3 +24,4 @@ If you have the replicator elements and the initiator, how can you figure out wh
 How to determine necessary sequences in yeast: 
 - Mutate regions of the initiator, clone into plasmids with uracil complementarity for deficient cells. If the cells survive -> sequence must have been replicated. I guess you would also have to account for transformation efficiency here... this would be somewhat imprecise. 
 - If you really care about being off by a constant factor, you could probably also have the plasmids express GFP to use as a measure of TE.
+

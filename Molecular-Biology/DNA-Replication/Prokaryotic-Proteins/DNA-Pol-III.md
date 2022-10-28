@@ -1,7 +1,7 @@
 Pol III is a holoenzyme, composed of mulitple active protein subunits.
 
 # Function
-Synthesizes new DNA using a template in a 5' to 3' direction. 
+Synthesizes **new DNA** in the 5' to 3' direction, template is 3' to 5'
 
 On the leading strand--the one in the 5' to 3' direction, Pol III can synthesize new DNA continuously. On the lagging strand, synthesis is discontinuous, so Pol III falls off the DNA and must rebind many times. 
 
@@ -22,4 +22,8 @@ Pol III has innate proofreading capability in order to remove improperly paired 
 
 
 # Why Only 5' to 3'?
+It has been theorized that proofreading activity would not be energetically favorable if new DNA is synthesied in the 3' to 5' direction. 
+
+![3'to5'exonuclease](3'to5'exonuclease.png)
+
 
